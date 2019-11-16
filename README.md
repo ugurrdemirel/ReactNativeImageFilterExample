@@ -2,7 +2,7 @@
 Image effect application written with react-native.
 
 ## Setting up project
-Open terminal and go to project directory and simply type npm install
+Open terminal, go to project directory and simply type npm install
 
 ## Libraries used in project
 [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for navigation.
